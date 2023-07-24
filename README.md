@@ -1,2 +1,12 @@
-# Amazon-clone
-This is an Amazon clone project created using HTML, CSS, and JavaScript. It replicates the familiar layout and design of Amazon, allowing users to browse and purchase products. 
+# Amazon-Clone-01
+A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS and Vanilla Javascript. The page is created for big screens i.e, laptops, PCs only.
+
+# Technologies:
+* HTML5
+* CSS3
+* CSS Animations
+* Javascript
+* Netlify
+
+# Live Link:
+https://amazon-frontend-clone01.netlify.app/
